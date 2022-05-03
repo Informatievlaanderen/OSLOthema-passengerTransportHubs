@@ -1,20 +1,29 @@
 {
-    "naam": "",
+    "naam": "Vocabulary and Applicationprofile Passenger Transport Hubs",
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-    "publicatiedatum": "",
-    "type_toepassing": "",
-    "categorie": "",
-    "beschrijving" : "",
-    "specificatiedocument": [],
+    "publicatiedatum": "TBD",
+    "type_toepassing": "TBD",
+    "categorie": "Vocabulary & applicationprofile",
+    "beschrijving" : "passenger-transport-hubs.md",
+    "specificatiedocument": [
+        {
+            "naam": "Applicationprofile Passenger Transport Hubs",
+            "waarde": 
+        },
+        {
+            "naam": "Vocabulary Passenger Transport Hubs",
+            "waarde": 
+        }            
+    ],
     "documentatie": [],
     "charter": [],
     "verslagen": [],
     "presentaties": [],
-    "functioneel_toepassingsgebied": "",
-    "organisatorisch_werkingsgebied": "",
+    "functioneel_toepassingsgebied": "Semantic standard for information about Passenger Transport Hubs",
+    "organisatorisch_werkingsgebied": "European context",
     "datum_van_aanmelding": "",
-    "erkenning_werkgroep_datastandaarden": "",
-    "erkenning_stuurgroep": ""
+    "erkenning_werkgroep_datastandaarden": "TBD",
+    "erkenning_stuurgroep": "TBD"
   }
