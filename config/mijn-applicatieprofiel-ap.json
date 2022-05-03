@@ -1,6 +1,6 @@
 [
 {
-  "name": "mijn-applicatieprofiel-ap",
+  "name": "OSLO-PassengerTransportHubs-AP",
   "type": "ap",
   "eap": "MijnApplicatieprofiel-AP.eap",
   "diagram": "MijnApplicatieprofiel",
