@@ -16,7 +16,7 @@
     {
       "language":"en",
       "template":"passenger-transport-hubs-ap_en.j2",
-      "title": "PassengerTransportHubs",
+      "title": "PassengerTransportHubs (Applicationprofile)",
       "translationjson":"passenger-transport-hubs-ap_en.json",
       "mergefile":"passenger-transport-hubs-ap_en_merged.jsonld"
     }
