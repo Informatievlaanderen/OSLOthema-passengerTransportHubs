@@ -4,8 +4,6 @@
   "type": "voc",
   "eap": "OSLO-PassengerTransportHubs.eap",
   "diagram": "OSLO-PassengerTransportHubs",
-  "template": "passenger-transport-hubs-voc.j2",
-  "title": "PassengerTransportHubs",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2020-01-31",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
@@ -13,5 +11,15 @@
   "contributors-column": "MijnKolom",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs/issues",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
+   "translation": [
+    {
+      "language":"en",
+      "template":"passenger-transport-hubs-voc_en.j2",
+      "title": "PassengerTransportHubs (Vocabulary)",
+      "translationjson":"passenger-transport-hubs-voc_en.json",
+      "mergefile":"passenger-transport-hubs-voc_en_merged.jsonld"
+    }
+  ]
+}
 }
 ]
