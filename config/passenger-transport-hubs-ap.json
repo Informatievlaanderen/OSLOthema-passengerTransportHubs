@@ -1,0 +1,18 @@
+[
+{
+  "name": "OSLO-PassengerTransportHubs-AP",
+  "type": "ap",
+  "eap": "OSLO-PassengerTransportHubs.eap",
+  "diagram": "OSLO-PassengerTransportHubs",
+  "template": "passenger-transport-hubs-ap.j2",
+  "title": "PassengerTransportHubs",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+  "publication-date": "2020-01-31",
+  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "MijnKolom",
+  "site": "site-skeleton/passenger-transport-hubs-ap",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/ontwerpstandaard/vocabulary-and-applicationprofile-passenger-transport-hubs.html"
+}
+]
