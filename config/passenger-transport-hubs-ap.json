@@ -1,6 +1,7 @@
 [
 {
   "name": "OSLO-PassengerTransportHubs-AP",
+  "prefix": "mobility",
   "type": "ap",
   "eap": "OSLO-PassengerTransportHubs.eap",
   "diagram": "OSLO-PassengerTransportHubs",
