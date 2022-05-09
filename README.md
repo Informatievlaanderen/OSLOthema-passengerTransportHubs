@@ -2,8 +2,7 @@
 
 ## Introduction
 
-The goal of this track is to standardise the data structure for Passenger Transport Hubs in collaboration with all stakeholders. Ot
-Het doel van dit traject is om de structuur van data omtrent Hoppinpunten te standaardiseren in samenspraak met alle belanghebbenden. In order to semantically enrich data streams, to make transport hubs more findable and understandable, and to make this data more combinable with other data sources. We are creating the vocabulary based on international standards and the input from our stakeholders.
+The goal of this track is to standardise the data structure for Passenger Transport Hubs in collaboration with all stakeholders. In order to semantically enrich data streams, to make transport hubs more findable and understandable, and to make this data more combinable with other data sources. We are creating the vocabulary based on international standards and the input from our stakeholders.
 
 ## Reports and presentations
 
