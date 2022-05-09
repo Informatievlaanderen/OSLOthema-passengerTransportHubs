@@ -20,6 +20,12 @@
       "title": "PassengerTransportHubs (Applicationprofile)",
       "translationjson":"passenger-transport-hubs-ap_en.json",
       "mergefile":"passenger-transport-hubs-ap_en_merged.jsonld"
+    },{
+      "language":"nl",
+      "template":"passenger-transport-hubs-ap_en.j2",
+      "title": "PassengerTransportHubs (Applicationprofile)",
+      "translationjson":"passenger-transport-hubs-ap_en.json",
+      "mergefile":"passenger-transport-hubs-ap_nl_merged.jsonld"
     }
   ]
 }
