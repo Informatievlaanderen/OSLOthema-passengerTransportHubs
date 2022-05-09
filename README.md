@@ -1,18 +1,18 @@
-# OSLOthema-mijnThema
+# OSLO Passenger Transport Hubs
 
-**_Editors:_**
-- Lees eerst [deze richtlijnen](https://github.com/Informatievlaanderen/OSLO-toolchain/blob/master/doc-user/README.md).
-- Gebruik [TagsAndNotes.xlsm](https://github.com/Informatievlaanderen/OSLO-allerleiTooltjes/tree/master/EA-Excel/TagsAndNotes) om gemakkelijk tags te editeren. Bestanden `*.xlsm` worden overigens git-ignored in repo's gemaakt volgens deze template.
+## Introduction
 
+The goal of this track is to standardise the data structure for Passenger Transport Hubs in collaboration with all stakeholders. Ot
+Het doel van dit traject is om de structuur van data omtrent Hoppinpunten te standaardiseren in samenspraak met alle belanghebbenden. In order to semantically enrich data streams, to make transport hubs more findable and understandable, and to make this data more combinable with other data sources. We are creating the vocabulary based on international standards and the input from our stakeholders.
 
-## Administratieve informatie
+## Reports and presentations
 
-### Tags
-Voor de beschikbare git tags om naar te refereren bij het maken van publicaties, zie de "Releases" tab in deze repo.
+The reports and presentations of this track can be consulted via [purl.eu](https://purl.eu/doc/applicationprofile/mobility/passenger-transport-hubs/index_en.htm).
 
-### Branches
-Overzicht van git branches die niet behoren tot de branches voor fixes die gedocumenteerd werden in de richtlijnen.
+## In this repository
 
-| Branch | Bedoeling | Nog actief (j/n) |
-| ------ | --------- | ---------------- | 
-|  |  |  |
+In this map [resources](https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs/tree/master/resources) you can find the objectdiagrams created and explained during the workshops. If there is need for more info or documentation, you may send an email to arne.scheldeman@vlaanderen.be or create an issue via Github (see below).
+
+## Issues
+
+Via the tab [issues](https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs/issues) you can create comments, ask questions and give feedback for this specific track.
