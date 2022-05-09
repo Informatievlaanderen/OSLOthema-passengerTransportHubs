@@ -15,13 +15,13 @@
    "translation": [
     {
       "language":"en",
-      "template":"passenger-transport-hubs-voc_en.j2",
+      "template":"passenger-transport-hubs-voc.j2",
       "title": "PassengerTransportHubs (Vocabulary)",
       "translationjson":"passenger-transport-hubs-voc_en.json",
       "mergefile":"passenger-transport-hubs-voc_en_merged.jsonld"
     },{
       "language":"nl",
-      "template":"passenger-transport-hubs-voc_en.j2",
+      "template":"passenger-transport-hubs-voc.j2",
       "title": "PassengerTransportHubs (Vocabulary)",
       "translationjson":"passenger-transport-hubs-voc_en.json",
       "mergefile":"passenger-transport-hubs-voc_nl_merged.jsonld"
