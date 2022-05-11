@@ -18,9 +18,24 @@
         }            
     ],
     "documentatie": [],
-    "charter": [],
-    "verslagen": [],
-    "presentaties": [],
+    "charter": [
+        {
+            "naam": "Charter",
+            "waarde": "OSLO - Passenger Transport Hubs - Charter.pdf"
+        }
+    ],
+    "verslagen": [
+        {
+            "naam": "Report Business Workshop - 26th of April 2022",
+            "waarde": "26042022_OSLO Passenger Transport Hubs_Business Workshop_Report.pdf"
+        }
+    ],
+    "presentaties": [
+        {
+            "naam": "Presentation business workshop - 26th of April 2022",
+            "waarde": "260422_OSLO Passenger Transport Hubs_Business Workshop_Presentation.pdf"
+        }
+    ],
     "functioneel_toepassingsgebied": "Semantic standard for information about Passenger Transport Hubs",
     "organisatorisch_werkingsgebied": "European context",
     "datum_van_aanmelding": "",
