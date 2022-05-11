@@ -16,15 +16,15 @@
    "translation": [
     {
       "language":"en",
-      "template":"passenger-transport-hubs-ap.j2",
-      "title": "PassengerTransportHubs (Applicationprofile)",
+      "template":"passenger-transport-hubs-ap_en.j2",
+      "title": "PassengerTransportHubs (applicationp rofile)",
       "translationjson":"passenger-transport-hubs-ap_en.json",
       "mergefile":"passenger-transport-hubs-ap_en_merged.jsonld"
     },{
       "language":"nl",
-      "template":"passenger-transport-hubs-ap.j2",
-      "title": "PassengerTransportHubs (Applicationprofile)",
-      "translationjson":"passenger-transport-hubs-ap_en.json",
+      "template":"passenger-transport-hubs-ap_nl.j2",
+      "title": "PassengerTransportHubs (applicatieprofiel)",
+      "translationjson":"passenger-transport-hubs-ap_nl.json",
       "mergefile":"passenger-transport-hubs-ap_nl_merged.jsonld"
     }
   ]
