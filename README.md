@@ -6,7 +6,9 @@ The goal of this track is to standardise the data structure for Passenger Transp
 
 ## Reports and presentations
 
-The reports and presentations of this track can be consulted via [purl.eu](https://purl.eu/doc/applicationprofile/mobility/passenger-transport-hubs/index_en.htm).
+The reports and presentations of this track can be consulted via the map [reports](https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs/tree/standaardenregister/reports) and the [presentations](https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs/tree/standaardenregister/presentations).
+
+In the future the files will be available on [purl.eu](https://purl.eu/doc/applicationprofile/mobility/passenger-transport-hubs/index_en.htm).
 
 ## In this repository
 
