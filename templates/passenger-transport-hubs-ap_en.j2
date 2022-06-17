@@ -2,19 +2,19 @@
 
 {% block summary %}
 <p>
-The applicationprofile OSLO-PassengerTransportHubs represents how terms out of the related <a href="https://purl.eu/ns/mobility/passenger-transport-hubs">vocabulary</a> are used to exchange data concerning Transport Hubs for passengers.
+The application profile OSLO-PassengerTransportHubs indicates how terms from the related <a href="https://purl.eu/ns/mobility/passenger-transport-hubs">vocabulary</a> are used to exchange data on Transport Hubs for passengers.
 </p>
 
 <p>
-Because of the diverse offer and transfer possibilities, transport hubs where travelers can transfer play an important role in realizing basic accessibility.
+Due to the variety of offers and transfer possibilities, transport hubs where travelers can transfer play an important role in achieving basic accessibility.
 </p>
 
 <p>
-The model consists out of two parts. The first part gives a general definition of a Transport Hub and describes the related elements, with specific attention to passenger transport. The second part focuses on the Traveler using Transport Hubs for his Journey or Route.
+The model consists of two parts. The first part provides a general definition of a Transport Hub and describes its related elements, with specific focus on passenger transport. The second part focuses on the Traveler using Transport Hubs for his Journey or Route.
 </p>
 
 <p>
-Below we focus on part one, for more info on part two please refer to the <a href="https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit-trips-en-aanbod">application profile OSLO Mobility: Trips and Offerings</a>.
+Below we focus on part one, for more info on part two we refer to the <a href="https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit-trips-en-aanbod">application profile OSLO Mobility: Trips and Offerings</a>.
 </p>
 
 <p>
@@ -30,19 +30,19 @@ InfrastructureElements represent the physical aspect of a Transport Hub, it conc
 </p>
 
 <p>
-The TransportNetworks available at a Transport Hub are accessible through TransportObjects such as TransportNodes (stops, stations... ) and TransportConnections between those nodes. Also VirtualNodes (points located on a link between two Transport Nodes, e.g. the position of a shared step left behind within a city) are possible. The class TransportObject and its subclasses are reused from the vocabulary of <a href="https://data.vlaanderen.be/ns/transportnetwerk">OSLO Transportnetwork</a>.
+The TransportNetworks available at a Transport Hub are accessible via TransportObjects such as TransportNodes (stops, stations... ) and TransportConnections between those nodes. Also VirtualNodes (points located on a link between two Transport Nodes, e.g. the position of an abandoned shared step within a city) are possible. The class TransportObject and its subclasses are reused from the vocabulary of <a href="https://data.vlaanderen.be/ns/transportnetwerk">OSLO Transportnetwork</a>.
 </p>
 
 <p>
-Through the available InfrastructureElements and TransportObjects, MobilityServices are available at the Transport Hub. These can be line services or shared steps, but just as well parking spaces or bicycle pumps. A Mobility Service can include other Mobility Services, in the case of a Provider that describes its services at different granularity levels (at a high level, the service "shared mobility in Flanders" and at a lower level, the services "shared cars in Antwerp" and "shared bikes in Ghent").  The MobilityService and related classes come from the vocabulary <a href="https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod">OSLO-Mobility: Trips and Offerings</a>.
+Through the available InfrastructureElements and TransportObjects, MobilityServices are available at the Transport Hub. These can be scheduled services or shared steps, but just as well parking spaces or bicycle pumps. A Mobility Service can include other Mobility Services, in the case of a Provider that describes its services at different granularity levels (at a high level, the service "shared mobility in Flanders" and at a lower level, the services "shared cars in Antwerp" and "shared bikes in Ghent").  The MobilityService and related classes come from the vocabulary <a href="https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod">OSLO-Mobility: Trips and Offerings</a>.
 </p>
 
 <p>
-At a TransportHub, we typically also find all kinds of AdditionalServices, including services that saves the Traveler additional trips such as mailboxes, bakeries, newpaper stores, etc.
+At a TransportHub, we also usually find all kinds of AdditionalServices, including services that save the Traveler additional trips such as mailboxes, bakeries, newpaper stores, etc.
 </p>
 
 <p>
-Enumerations are basically described outside the application profile, so the enumeration values shown in the diagram are illustrative.
+Enumerations are basically described outside the application profile, hence the enumeration values shown in the diagram are illustrative.
 </p>
 
 {% endblock %}

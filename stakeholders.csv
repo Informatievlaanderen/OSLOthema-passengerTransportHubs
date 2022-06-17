@@ -1,4 +1,24 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
-AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A;
-EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E;
-MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C;
+Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
+Tom;Callens;Digitaal Vlaanderen;tom.callens@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A
+Joris;Cornu;Agentschap Wegen en Verkeer;joris.cornu@mow.vlaanderen.be;https://wegenenverkeer.be/;A
+Brecht;Van de Vyvere;IMEC-UGent;brecht.vandevyvere@ugent.be;https://idlab.technology/;E
+Michael;Mampaey;Digitaal Vlaanderen;michael.mampaey@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Joeri;Moreno;Digitaal Vlaanderen;joeri.moreno@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Bert;Van Nuffelen;Digitaal Vlaanderen;bert.vannuffelen@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Geert;Thijs;Digitaal Vlaanderen;geert.thijs@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Alexis;Driesen;Digitaal Vlaanderen;alexis.driesen@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Arne;Scheldeman;Digitaal Vlaanderen;arne.scheldeman@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Laurens;Vercauteren;Digitaal Vlaanderen;laurens.vercauteren@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Thomas;Gerets;Agentschap voor Maritieme Dienstverlening en Kust;thomas.gerets@mow.vlaanderen.be;https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-mobiliteit-en-openbare-werken/agentschap-voor-maritieme-dienstverlening-en-kust;C
+Valeria;Ignatenko;Agentschap voor Maritieme Dienstverlening en Kust;valeria.ignatenko@mow.vlaanderen.be;https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-mobiliteit-en-openbare-werken/agentschap-voor-maritieme-dienstverlening-en-kust;C
+Clara;Pezuela;ATOS;clara.pezuela@atos.net;https://atos.net/en/;C
+Patrick;Michels;ATOS;patrick.michels@atos.net;https://atos.net/en/;C
+Bart;Baeyens;DMOW;bart.baeyens@mow.vlaanderen.be;https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-mobiliteit-en-openbare-werken/departement-mobiliteit-en-openbare-werken;C
+Els;Maesen;DMOW;elsmaesen@uncapped.be;https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-mobiliteit-en-openbare-werken/departement-mobiliteit-en-openbare-werken;C
+Jan;Deprez;IMEC;jan.deprez@imec.be;https://www.imec-int.com/en;C
+Filip;Gosselé;IMEC;filip.gossele@imec.be;https://www.imec-int.com/en;C
+Marcel;Wijnker;Inter;marcel.wijnker@inter.vlaanderen;https://www.inter.vlaanderen/;C
+Geert;Thoelen;Smart Region Limburg;Geert.Thoelen@s-lim.be;https://www.s-lim.be/;C
+Simon;Rosseel;MyCSN;Simon.Rosseel@mycsn.be;https://www.mycsn.be/over-ons/;C
+Yannick;Fabbro;Stad Hasselt;Yannick.Fabbro@hasselt.be;https://www.hasselt.be/nl;C
+Jiao;Long;IMEC-Ugent;Jiao.Long@UGent.be;https://idlab.technology/;C
