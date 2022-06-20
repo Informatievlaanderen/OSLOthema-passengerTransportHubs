@@ -1,6 +1,6 @@
 [
 {
-  "name": "OSLO-PassengerTransportHubs-VOC",
+  "name": "passenger-transport-hubs",
   "prefix": "mobility",
   "type": "voc",
   "eap": "OSLO-PassengerTransportHubs.eap",
