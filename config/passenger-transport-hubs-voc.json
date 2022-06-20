@@ -4,7 +4,8 @@
   "prefix": "mobility",
   "type": "voc",
   "eap": "OSLO-PassengerTransportHubs.eap",
-  "diagram" : "PassengerHubs",
+  "diagram" : "OSLO-Passenger Transport Hubs",
+  "title":"PassengerTransportHubs (vocabulary)",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2020-01-31",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
@@ -16,9 +17,15 @@
     {
       "language":"en",
       "template":"passenger-transport-hubs-voc_en.j2",
-      "title": "PassengerTransportHubs (Vocabulary)",
+      "title": "PassengerTransportHubs (vocabulary)",
       "translationjson":"passenger-transport-hubs-voc_en.json",
       "mergefile":"passenger-transport-hubs-voc_en_merged.jsonld"
+    },{
+      "language":"nl",
+      "template":"passenger-transport-hubs-voc_nl.j2",
+      "title": "PassengerTransportHubs (vocabularium)",
+      "translationjson":"passenger-transport-hubs-voc_nl.json",
+      "mergefile":"passenger-transport-hubs-voc_nl_merged.jsonld"
     }
   ]
 }

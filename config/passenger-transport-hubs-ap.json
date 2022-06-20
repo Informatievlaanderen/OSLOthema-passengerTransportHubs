@@ -4,7 +4,8 @@
   "prefix": "mobility",
   "type": "ap",
   "eap": "OSLO-PassengerTransportHubs.eap",
-  "diagram" : "PassengerHubs",
+  "diagram" : "OSLO-Passenger Transport Hubs",
+  "title":"PassengerTransportHubs (application profile)",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2020-01-31",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
@@ -17,9 +18,15 @@
     {
       "language":"en",
       "template":"passenger-transport-hubs-ap_en.j2",
-      "title": "PassengerTransportHubs (Applicationprofile)",
+      "title": "PassengerTransportHubs (application profile)",
       "translationjson":"passenger-transport-hubs-ap_en.json",
       "mergefile":"passenger-transport-hubs-ap_en_merged.jsonld"
+    },{
+      "language":"nl",
+      "template":"passenger-transport-hubs-ap_nl.j2",
+      "title": "PassengerTransportHubs (applicatieprofiel)",
+      "translationjson":"passenger-transport-hubs-ap_nl.json",
+      "mergefile":"passenger-transport-hubs-ap_nl_merged.jsonld"
     }
   ]
 }
