@@ -1,20 +1,16 @@
 {
-    "naam": "Vocabulary and Applicationprofile Passenger Transport Hubs",
+    "naam": "Applicatieprofiel Passenger Transport Hubs",
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
     "publicatiedatum": "TBD",
     "type_toepassing": "TBD",
-    "categorie": "Vocabulary & applicationprofile",
+    "categorie": "Applicatieprofiel",
     "beschrijving" : "passenger-transport-hubs.md",
     "specificatiedocument": [
         {
             "naam": "Applicationprofile Passenger Transport Hubs",
             "waarde": "https://purl.eu/doc/applicationprofile/mobility/passenger-transport-hubs/index_en.html"
-        },
-        {
-            "naam": "Vocabulary Passenger Transport Hubs",
-            "waarde": "https://purl.eu/ns/mobility/passenger-transport-hubs/"
         }            
     ],
     "documentatie": [],
