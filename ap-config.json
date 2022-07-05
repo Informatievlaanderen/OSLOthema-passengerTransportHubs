@@ -22,8 +22,16 @@
     ],
     "verslagen": [
         {
-            "naam": "Report Business Workshop - 26th of April 2022",
+            "naam": "Report business workshop - 26th of April 2022",
             "waarde": "26042022_OSLO Passenger Transport Hubs_Business Workshop_Report.pdf"
+        },
+        {
+            "naam": "Report thematic workshop - 19th of May 2022",
+            "waarde": "19052022_OSLO Passenger Transport Hubs_Thematic Workshop 1_Report.pdf"
+        },
+        {
+            "naam": "Report thematic workshop - 23rd of June 2022",
+            "waarde": "23062022_OSLO Passenger Transport Hubs_Thematic Workshop 2_Report.pdf"
         }
     ],
     "presentaties": [
@@ -34,6 +42,10 @@
         {
             "naam": "Presentation thematic workshop - 19th of May 2022",
             "waarde": "260422_OSLO Passenger Transport Hubs_Thematic Workshop 1_Presentation.pdf"
+        },
+        {
+            "naam": "Presentation thematic workshop - 23rd of June 2022",
+            "waarde": "23062022_OSLO Passenger Transport Hubs_Thematic Workshop 2_Presentation.pdf"
         }
     ],
     "functioneel_toepassingsgebied": "Semantic standard for information about Passenger Transport Hubs",
