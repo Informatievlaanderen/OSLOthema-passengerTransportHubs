@@ -1,32 +1,33 @@
 [
-{
-  "name": "passenger-transport-hubs",
-  "prefix": "mobility",
-  "type": "voc",
-  "eap": "OSLO-PassengerTransportHubs.eap",
-  "diagram" : "OSLO-Passenger Transport Hubs",
-  "title":"PassengerTransportHubs (vocabulary)",
-  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
-  "publication-date": "2022-07-11",
-  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
-  "contributors-file": "stakeholders.csv",
-  "contributors-column": "MijnKolom",
-  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs/issues",
-  "standaardregisterurl": "https://purl.eu",
-   "translation": [
-    {
-      "language":"en",
-      "template":"passenger-transport-hubs-voc_en.j2",
-      "title": "PassengerTransportHubs (vocabulary)",
-      "translationjson":"passenger-transport-hubs-voc_en.json",
-      "mergefile":"passenger-transport-hubs-voc_en_merged.jsonld"
-    },{
-      "language":"nl",
-      "template":"passenger-transport-hubs-voc_nl.j2",
-      "title": "PassengerTransportHubs (vocabularium)",
-      "translationjson":"passenger-transport-hubs-voc_nl.json",
-      "mergefile":"passenger-transport-hubs-voc_nl_merged.jsonld"
-    }
-  ]
-}
+  {
+    "name": "passenger-transport-hubs",
+    "prefix": "mobility",
+    "type": "voc",
+    "eap": "OSLO-PassengerTransportHubs.eap",
+    "diagram": "OSLO-Passenger Transport Hubs",
+    "title": "PassengerTransportHubs (vocabulary)",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
+    "publication-date": "2022-12-01",
+    "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "MijnKolom",
+    "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs/issues",
+    "standaardregisterurl": "https://purl.eu",
+    "translation": [
+      {
+        "language": "en",
+        "template": "passenger-transport-hubs-voc_en.j2",
+        "title": "PassengerTransportHubs (vocabulary)",
+        "translationjson": "passenger-transport-hubs-voc_en.json",
+        "mergefile": "passenger-transport-hubs-voc_en_merged.jsonld"
+      },
+      {
+        "language": "nl",
+        "template": "passenger-transport-hubs-voc_nl.j2",
+        "title": "PassengerTransportHubs (vocabularium)",
+        "translationjson": "passenger-transport-hubs-voc_nl.json",
+        "mergefile": "passenger-transport-hubs-voc_nl_merged.jsonld"
+      }
+    ]
+  }
 ]
