@@ -1,3 +1,87 @@
-YYYY-MM--DD
-  - Mijn aanpassing1
-  - Mijn aanpassing2
+2025-09-09
+  - diagram Mobivoc:
+    - 2025-09-09T09:54:00.237Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:Mobivoc:Charger:type).
+  -> Solved by resetting the range of the conflicting types
+  - diagram INSPIRE-Transportnetwerk
+    - 2025-09-09T09:57:00.111Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:TransportNode:^geometry).
+    - 2025-09-09T09:57:00.111Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:TransportNode:^identifier).
+    - 2025-09-09T09:57:00.111Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:Transportgebied:^identificator).
+    - 2025-09-09T09:57:00.111Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:Transportlink:^identificator).
+    - 2025-09-09T09:57:00.111Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:Transportlinksequentie:^identificator).
+    - 2025-09-09T09:57:00.111Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:Transportlinkset:^identificator).
+    - 2025-09-09T09:57:00.111Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:Transportpunt:^identificator).
+    - 2025-09-09T09:57:00.111Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:Transportgebied:^geometrie).
+    - 2025-09-09T09:57:00.111Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:Restrictie:waarde).
+    - 2025-09-09T09:57:00.110Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:Eigenaar:authoriteit).
+    - 2025-09-09T09:57:00.110Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:Beheerder:authoriteit).
+    - 2025-09-09T09:57:00.110Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:Afstandspaal:afstand).
+    - 2025-09-09T09:57:00.110Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:Transportpunt:geometrie).
+  -> Solved by resetting the range of the conflicting types
+  - diagram INSPIRE-Weg
+    - 2025-09-09T10:01:53.597Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-Road:ToegestaneSnelheid:verkeersteken).
+    - 2025-09-09T10:01:53.597Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-Network:Netwerkeigenschap:identificator).
+    - 2025-09-09T10:01:53.597Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-Road:Wegverharding:wegverharding).
+  -> Solved by resetting the range of the conflicting types
+  - diagram OSLO-Mobiliteit
+    - 2025-09-09T10:04:09.079Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Boeking:prijs).
+    - 2025-09-09T10:04:09.079Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Vervoersbewijs:prijs).
+    - 2025-09-09T10:04:09.079Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Vervoersbewijs:periode).
+    - 2025-09-09T10:04:09.079Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Vervoersbewijs:reisweg).
+    - 2025-09-09T10:04:09.079Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Provider:^preferredName).
+    - 2025-09-09T10:04:09.079Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Provider:^contactInformation).
+    - 2025-09-09T10:04:09.079Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Executor:^preferredName).
+    - 2025-09-09T10:04:09.079Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Executor:^contactInformation).
+    - 2025-09-09T10:04:09.079Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Reservatie:reisweg).
+    - 2025-09-09T10:04:09.079Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Executor:^registration).
+    - 2025-09-09T10:04:09.079Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Provider:^registration).
+    - 2025-09-09T10:04:09.079Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Vervoersbewijs:bedrag).
+    - 2025-09-09T10:04:09.078Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:RouteNode:geometry).
+    - 2025-09-09T10:04:09.078Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:MobilityService:spatialCoverage).
+    - 2025-09-09T10:04:09.078Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Resource:location).
+    - 2025-09-09T10:04:09.078Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:RouteSegment:link).
+    - 2025-09-09T10:04:09.078Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:RouteNode:type).
+    - 2025-09-09T10:04:09.078Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Route:arrivalPoint).
+    - 2025-09-09T10:04:09.078Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Route:departurePoint).
+    - 2025-09-09T10:04:09.077Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Reservatie:periode).
+    - 2025-09-09T10:04:09.075Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:MobilityService:title).
+  -> Solved by resetting the range of the conflicting types
+  - diagram OSLO-Passenger Transport Hubs
+    - 2025-09-09T10:10:13.742Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:Mobivoc:Charger:type).
+    - 2025-09-09T10:10:13.741Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Provider:^preferredName).
+    - 2025-09-09T10:10:13.741Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Provider:^contactInformation).
+    - 2025-09-09T10:10:13.741Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Executor:^preferredName).
+    - 2025-09-09T10:10:13.741Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Executor:^contactInformation).
+    - 2025-09-09T10:10:13.741Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Executor:^registration).
+    - 2025-09-09T10:10:13.741Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Provider:^registration).
+    - 2025-09-09T10:10:13.741Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Passenger Transport Hubs:AdditionalService:title).
+    - 2025-09-09T10:10:13.740Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:MobilityService:spatialCoverage).
+    - 2025-09-09T10:10:13.740Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Stopplaces:StopPlace:^parentSite).
+    - 2025-09-09T10:10:13.740Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:RouteNode:geometry).
+    - 2025-09-09T10:10:13.740Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Stopplaces:StopPlace:^roadAddress).
+    - 2025-09-09T10:10:13.740Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Resource:location).
+    - 2025-09-09T10:10:13.740Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Passenger Transport Hubs:ResourceReport:location).
+    - 2025-09-09T10:10:13.739Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:RouteSegment:link).
+    - 2025-09-09T10:10:13.739Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:RouteNode:type).
+    - 2025-09-09T10:10:13.739Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Route:arrivalPoint).
+    - 2025-09-09T10:10:13.739Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:Route:departurePoint).
+    - 2025-09-09T10:10:13.732Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Mobility:MobilityService:title).
+    - 2025-09-09T10:10:13.732Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:TransportNode:^geometry).
+    - 2025-09-09T10:10:13.732Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-TransportNetwork:TransportNode:^identifier).
+    - 2025-09-09T10:10:13.731Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:INSPIRE-Network:DirectedLink:direction).
+    - 2025-09-09T10:10:13.731Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Address:AddressRepresentation:streetName).
+    - 2025-09-09T10:10:13.731Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Address:AddressRepresentation:municipalityName).
+    - 2025-09-09T10:10:13.731Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:OSLO-Address:AddressRepresentation:country).
+  -> Solved by resetting the range of the conflicting types
+
+
+
+
+
+
+
+  
+
+
+
+
+
