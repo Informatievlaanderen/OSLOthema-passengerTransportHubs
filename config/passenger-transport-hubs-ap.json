@@ -4,7 +4,7 @@
     "prefix": "mobility",
     "type": "ap",
     "eap": "OSLO-PassengerTransportHubs.eap",
-    "diagram": "OSLO-Passenger Transport Hubs",
+    "diagram": "OSLO-Passenger-Transport-Hubs",
     "title": "PassengerTransportHubs (application profile)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
     "publication-date": "2022-12-01",
