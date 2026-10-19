@@ -13,22 +13,6 @@
     "contributors-column": "MijnKolom",
     "site": "site-skeleton/mijn-applicatieprofiel-ap",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs/issues",
-    "standaardregisterurl": "https://purl.eu",
-    "translation": [
-      {
-        "language": "en",
-        "template": "passenger-transport-hubs-ap_en.j2",
-        "title": "PassengerTransportHubs (application profile)",
-        "translationjson": "passenger-transport-hubs-ap_en.json",
-        "mergefile": "passenger-transport-hubs-ap_en_merged.jsonld"
-      },
-      {
-        "language": "nl",
-        "template": "passenger-transport-hubs-ap_nl.j2",
-        "title": "PassengerTransportHubs (applicatieprofiel)",
-        "translationjson": "passenger-transport-hubs-ap_nl.json",
-        "mergefile": "passenger-transport-hubs-ap_nl_merged.jsonld"
-      }
-    ]
+    "standaardregisterurl": "https://purl.eu"
   }
 ]
