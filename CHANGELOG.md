@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Added
+- Passenger Transport Hubs VOC: Template
+- Passenger Transport Hubs AP: Template
+
 ### Changed
 - Passenger Transport Hubs VOC: Apply PascalCase and CamelCase
 - Passenger Transport Hubs VOC: Replace http://schema.org with https://schema.org
