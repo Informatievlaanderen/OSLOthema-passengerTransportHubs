@@ -12,6 +12,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Passenger Transport Hubs VOC: Replace http://schema.org with https://schema.org
 - Passenger Transport Hubs VOC: Replace abbreviations
 
+### Removed
+- Passenger Transport Hubs VOC: Empty `ap-usageNote-nl` values
+- Passenger Transport Hubs VOC: Empty `ap-usageNote-en` values
+- Passenger Transport Hubs VOC: Empty `usageNote-nl` values
+- Passenger Transport Hubs VOC: Empty `usageNote-en` values
+- Passenger Transport Hubs VOC: Empty `ap-definition-en` values
+- Passenger Transport Hubs VOC: Empty `ap-definition-nl` values
+- Passenger Transport Hubs VOC: Empty `definition-en` values
+- Passenger Transport Hubs VOC: Empty `definition-nl` values
+
 ## 2025-09-09
   - diagram Mobivoc:
     - 2025-09-09T09:54:00.237Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:Mobivoc:Charger:type).
