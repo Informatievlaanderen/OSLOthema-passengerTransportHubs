@@ -16,6 +16,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Passenger Transport Hubs VOC: Replace http://schema.org with https://schema.org
 - Passenger Transport Hubs VOC: Replace abbreviations
 
+### Fixed
+- Passenger Transport Hubs AP: Use actual class with all tags for CivicStructure, Element, Service, NetworkElement,
+  Site, StreetFurniture, Node, and Network.
+
 ### Removed
 - Passenger Transport Hubs VOC: Empty `ap-usageNote-nl` values
 - Passenger Transport Hubs VOC: Empty `ap-usageNote-en` values
