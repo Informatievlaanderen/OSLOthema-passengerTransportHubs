@@ -10,6 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Passenger Transport Hubs VOC: Template
 - Passenger Transport Hubs AP: Template
+- Passenger Transport Hubs AP: ConnectionType label and definition
+- Passenger Transport Hubs AP: Plug label
+- Passenger Transport Hubs AP: Entrance label
+- Passenger Transport Hubs AP: Exit label
+- Passenger Transport Hubs AP: Document label an definition
 
 ### Changed
 - Passenger Transport Hubs VOC: Apply PascalCase and CamelCase
