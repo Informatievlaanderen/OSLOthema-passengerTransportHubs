@@ -1,4 +1,44 @@
-2025-09-09
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## Unreleased
+
+### Added
+- Passenger Transport Hubs VOC: Template
+- Passenger Transport Hubs AP: Template
+- Passenger Transport Hubs AP: ConnectionType label and definition
+- Passenger Transport Hubs AP: Plug label
+- Passenger Transport Hubs AP: Entrance label
+- Passenger Transport Hubs AP: Exit label
+- Passenger Transport Hubs AP: Document label and definition
+- Passenger Transport Hubs AP: TypedString to diagram
+- Passenger Transport Hubs AP: TypedString label and definition
+- Passenger Transport Hubs AP: Pseudonym label and definition
+
+### Changed
+- Passenger Transport Hubs VOC: Apply PascalCase and CamelCase
+- Passenger Transport Hubs VOC: Replace http://schema.org with https://schema.org
+- Passenger Transport Hubs VOC: Replace abbreviations
+
+### Fixed
+- Passenger Transport Hubs AP: Use actual class with all tags for CivicStructure, Element, Service, NetworkElement,
+  Site, StreetFurniture, Node, and Network.
+
+### Removed
+- Passenger Transport Hubs VOC: Empty `ap-usageNote-nl` values
+- Passenger Transport Hubs VOC: Empty `ap-usageNote-en` values
+- Passenger Transport Hubs VOC: Empty `usageNote-nl` values
+- Passenger Transport Hubs VOC: Empty `usageNote-en` values
+- Passenger Transport Hubs VOC: Empty `ap-definition-en` values
+- Passenger Transport Hubs VOC: Empty `ap-definition-nl` values
+- Passenger Transport Hubs VOC: Empty `definition-en` values
+- Passenger Transport Hubs VOC: Empty `definition-nl` values
+
+## 2025-09-09
   - diagram Mobivoc:
     - 2025-09-09T09:54:00.237Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:model:Mobivoc:Charger:type).
   -> Solved by resetting the range of the conflicting types
