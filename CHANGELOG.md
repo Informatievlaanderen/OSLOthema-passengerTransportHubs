@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Passenger Transport Hubs AP: Document label and definition
 - Passenger Transport Hubs AP: TypedString to diagram
 - Passenger Transport Hubs AP: TypedString label and definition
+- Passenger Transport Hubs AP: Pseudonym label and definition
 
 ### Changed
 - Passenger Transport Hubs VOC: Apply PascalCase and CamelCase
